@@ -1,16 +1,6 @@
 # matrimonials
 
 A new Flutter project.
+This project is Matrimonial app UI and it has firebase authentication where a new user can register and old one can login itself using email and password.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### the screenshots of the project is inside lib folder in a folder named screen shots you can check UI there.
